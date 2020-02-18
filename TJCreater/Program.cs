@@ -16,9 +16,9 @@ namespace TJCreater
 	{
 		static void Main(string[] args)
 		{
-			const string SiteUrl		= @"https://gpn-credit-control.15.prototype.spellabs.com";
-			const string AssamblyName	= "Spellabs.GPN.CreditControl.TJ, Version=1.0.0.0, Culture=neutral, PublicKeyToken=038ea93179eb9a67";
-			const string ClassName		= "Spellabs.GPN.CreditControl.TJ.AccontingReportLoaderTJ";
+			const string SiteUrl		= "site_url";
+			const string AssamblyName	= "assambly_name";
+			const string ClassName		= "tj_class_name";
 
 			Console.OutputEncoding = Encoding.GetEncoding(1251);
 
