@@ -69,7 +69,6 @@
     <Compile Include="TimerJobCreater.cs" />
     <Compile Include="TimerServiceLogic.cs" />
     <Compile Include="ReflectionLogic.cs" />
-    <Compile Include="Utils.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
